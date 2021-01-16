@@ -8,5 +8,10 @@ public class HaoTianChuiFa {
         System.out.println("昊天锤的基础功法4-唐昊");
         System.out.println("昊天锤的基础功法5-唐昊");
         System.out.println("===================");
+        System.out.println("昊天锤的基础功法1-唐三");
+        System.out.println("昊天锤的基础功法2-唐三");
+        System.out.println("昊天锤的基础功法3-唐三");
+        System.out.println("昊天锤的基础功法4-唐三");
+        System.out.println("昊天锤的基础功法5-唐三");
     }
 }
